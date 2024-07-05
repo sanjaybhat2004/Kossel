@@ -1,1 +1,3 @@
-A Discord Bot that makes you OP in Inorganic Chemistry
+A Discord Bot for learning Inorganic Chemistry for JEE.
+
+Made by me and RishiNanda Vanchi.
